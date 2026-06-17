@@ -39,7 +39,7 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 
 - *May. 2025 - Feb. 2027[\*](#footnote_1)*, Postdoctoral Research Fellow. BIMAG, IBS (Advisor: Prof. Jae Kyoung Kim).
 
-- *Mar. 2021 - Feb. 2025*, Research Assistant. KYR Lab, HUFS (Advisor: Prof. Young Rock Kim).
+- *Mar. 2021 - Feb. 2025*, Research Assistant. [KYR Lab](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027), HUFS (Advisor: Prof. Young Rock Kim).
 
 - *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (National Institute for Mathematical Sciences) (Advisor: Ph.D. Yunkyong Hyon).
 
@@ -71,7 +71,7 @@ IEEE Transactions on Intelligent Transportation Systems
 
 [RNN and GNN based prediction of agricultural prices with multivariate time series and its short-term fluctuations smoothing effect](https://www.nature.com/articles/s41598-025-97724-7)
 
-Min, Youngho and Kim, Young Rock and Hyon, YunKyong and Ha, Taeyoung and Lee, Sunju and Hyun, Jinwoo[&dagger;](#footnote_2) and Lee, Mi Ra
+Min, Youngho and Kim, Young Rock and Hyon, YunKyong and Ha, Taeyoung and Lee, Sunju and **Hyun, Jinwoo[&dagger;](#footnote_2)** and Lee, Mi Ra
 
 Scientific Reports
 
@@ -117,43 +117,83 @@ IEEE Access
  <a name="footnote_2">&dagger;</a>: Corresponding author.
 <br>
 
-# Patents
+# Presentations
 
-## International
-- Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning (U.S.A.) - Pending
+## Talks
+- 
 
-## Domestic
-- Method And Apparatus for Generating E-Sports Match Highlight Commentary Based on Multimodal Video Captioning, Application 
+## Posters
+-
 
-No. 10-2025-0157168
+# Academic Project
 
-<br>
-<br>
+- *May. 2025 - Feb. 2027[\*](#footnote_1)*, Multiscale dynamics in biosciences and medicine, IBS.
 
-# Technology Transfer
-- Generative AI-based eSports service automation technology
-<br>
-<br>
+- *Nov. 2021 - Feb. 2025*, Research on tropical geometry and crystals in representation theory, HUFS.
 
+- *Sep. 2023 - Aug. 2024*, Artificial Intelligence-type Modeling for Industrial and Medical Areas using Computational Mathematical Sciences, NIMS.
 
-# Software Registration
-- Narration Generation Software for Esports Game Videos
-<br>
-<br>
-
-
-# Projects
-- *2024.07 - 2026.12*, Development of generative AI-based E-sports service automation platform technology to improve E-sports operation efficiency.
-<br>
-<br>
+- *Oct. 2019 - Oct. 2020*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
 
 
 # Honors and Awards
-- *2025*, National Strategic Technology Excellence Scholarship.
-- *2021*, Grand Prize, Hankuk University of Foreign Studies 4th Company Analysis Creative Proposal Contest.
-  - Presented KOICA's strategy to build a platform for development cooperation in the Vietnamese film industry.
-- *2019*, Grand Prize, Hankuk University of Foreign Studies 6th Better World Idea Workshop.
-  - Presented an idea for a generation convergence radio under the theme of "Convergence of Culture and Science and Technology."
-  <br>
-  <br>
+
+- *Fall. 2023*, Scholarship for Global Talent Development
+
+- *Spring. 2023*, Scholarship for Research Assistant
+
+- *Spring. 2023*, Scholarship for Global Talent Development
+
+- *Fall. 2022*, Scholarship for Global Talent Development
+
+- *Fall. 2022*, BK21 - Scholarship for Graduate student (RA)
+
+- *Spring. 2022*, Scholarship for Global Talent Development
+
+- *Fall. 2021*, Scholarship for Academic Excellence
+
+- *Fall. 2021*, Scholarship for Global Talent Development
+
+- *Fall. 2021*, BK21 - Scholarship for Graduate student (RA)
+
+- *Spring. 2021*, Scholarship for Global Talent Development
+
+
+# Certifications
+
+## Data analytics
+
+- *Jun. 2021*  IBM Watson Explorer Deep Analytics Edition Foundational Components (IBM)
+
+- *Jun. 2021* IBM Watson Explorer Deep Analytics Edition oneWEX (IBM)
+
+## Computer engineering
+
+- *Mar. 2021*, IBM Certified System Administrator - WebSphere Application Server Network Deployment and Liberty Profile (IBM) 
+
+- *Dec. 2020*, IBM Cloud Integration Sales Foundations (IBM) 
+
+- *Sep. 2020*, IBM Certified Deployment Professional - Security Access Manager (IBM)
+
+- *Sep. 2020*, Sales Foundations for IBM Security Mastery Professional V1 (IBM)
+
+## Database system
+
+- *Nov. 2020*, IBM Db2 Hosted Cloud Administration (IBM)
+
+- *Nov. 2020*, IBM Db2 Hosted Cloud Administration and Implementation Essentials (IBM)
+
+- *Nov. 2020*, IBM Db2 Hosted Essentials (IBM)
+
+# Other Experience
+
+- *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
+
+- *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
+
+
+<br>
+<br>
+<br>
+<br>
 
