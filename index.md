@@ -232,6 +232,8 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 ## Computer engineering
 
+
+
 - *Mar. 2021*, IBM Certified System Administrator - WebSphere Application Server Network Deployment and Liberty Profile (IBM) 
 
 - *Dec. 2020*, IBM Cloud Integration Sales Foundations (IBM) 
@@ -242,11 +244,41 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 ## Database system
 
-- *Nov. 2020*, IBM Db2 Hosted Cloud Administration (IBM)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Administration.png' alt="1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- *Nov. 2020*, IBM Db2 Hosted Cloud Administration and Implementation Essentials (IBM)
+[IBM Db2 Hosted Cloud Administration](https://www.credly.com/badges/57876592-8151-422b-b4bf-43fe42574ccc?source=linked_in_profile)
 
-- *Nov. 2020*, IBM Db2 Hosted Essentials (IBM)
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Essentials.png' alt="1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IBM Db2 Hosted Cloud Administration and Implementation Essentials](https://www.credly.com/badges/0bff43a1-e35a-4202-8a46-95f2a541b2ec?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Db2.png' alt="1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IBM Db2 Hosted Essentials](https://www.credly.com/badges/5089d6f8-490a-467c-8a52-d164813e2de0?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
 
 <br>
 <br>
