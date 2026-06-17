@@ -15,9 +15,8 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am an M.S. student at UST-ETRI and a student researcher in the Immersive Interaction Research Laboratory at [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Electronics and Telecommunications Research Institute), led by Prof. Sang Kwang Lee.
-<br>
-My research interests include computer vision and multimodal data processing.
+
+I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr/bimag) (Institute for Basic Science), [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. degree in Computer Science and Language Technology from Hankuk University of Foreign Studies (HUFS), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with BIMAG, IBS, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 <br>
 <br>
 
