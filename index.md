@@ -232,15 +232,41 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 ## Computer engineering
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Access.png' alt="1" width="30%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[IBM Certified Deployment Professional - Security Access Manager](https://www.credly.com/badges/7169fb6d-dc05-424f-8d27-aedda4e75a7e?source=linked_in_profile)
 
-- *Mar. 2021*, IBM Certified System Administrator - WebSphere Application Server Network Deployment and Liberty Profile (IBM) 
+**Jinwoo Hyun**
 
-- *Dec. 2020*, IBM Cloud Integration Sales Foundations (IBM) 
+Issued by [IBM](https://www.credly.com/org/ibm)
 
-- *Sep. 2020*, IBM Certified Deployment Professional - Security Access Manager (IBM)
+</div>
+</div>
 
-- *Sep. 2020*, Sales Foundations for IBM Security Mastery Professional V1 (IBM)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Sales_F.png' alt="1" width="30%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sales Foundations for IBM Security Mastery Professional](https://www.credly.com/badges/39da7a82-5454-464e-843b-c03042b8ea46?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Sales.png' alt="1" width="30%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IBM Cloud Integration Sales Foundations](https://www.credly.com/badges/05dbfdba-8577-4ecc-8b1c-3e8cd8a47a9b?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
 
 ## Database system
 
