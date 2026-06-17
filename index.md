@@ -206,9 +206,29 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Data analytics
 
-- *Jun. 2021*  IBM Watson Explorer Deep Analytics Edition Foundational Components (IBM)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Foundational.png' alt="1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- *Jun. 2021* IBM Watson Explorer Deep Analytics Edition oneWEX (IBM)
+[IBM Watson Explorer Deep Analytics Edition Foundational Components](https://www.credly.com/badges/b3a55ddf-c2f1-41de-ad4e-a20473aad7aa?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/oneWEX.png' alt="1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[IBM Watson Explorer Deep Analytics Edition oneWEX](https://www.credly.com/badges/cc62d3b5-034f-410e-a9d6-7b1257fb6f0b?source=linked_in_profile)
+
+**Jinwoo Hyun**
+
+Issued by [IBM](https://www.credly.com/org/ibm)
+
+</div>
+</div>
 
 ## Computer engineering
 
