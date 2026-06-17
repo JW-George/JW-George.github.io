@@ -16,24 +16,25 @@ author_profile: true
 
 # About Me
 
-I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr/bimag) (Institute for Basic Science), [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. degree in Computer Science and Language Technology from Hankuk University of Foreign Studies (HUFS), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with BIMAG, IBS, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. degree in Computer Science and Language Technology from Hankuk University of Foreign Studies (HUFS), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with IBS BIMAG, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 <br>
 <br>
 
-# News
+<!-- # News
 - *2025*, Featured in UST Story: [Development of generative AI-based E-sports service automation platform technology](https://blog.naver.com/uststory/224163085962?trackingCode=rss)
 <br>
 <br>
-
+ -->
 
 # Educations
-- *2024.03 - (now)*, M.S. in Artificial Intelligence, University of Science and Technology.
-- *2018.03 - 2023.02*, B.A. in Arts, Double Major in Economics, Hankuk University of Foreign Studies.
+- *Mar. 2021 - Feb. 2025*, Doctor of Philosophy (Ph.D.) in Mathematics, Hankuk University of Foreign Studies. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
+- *Mar. 2017 - Feb. 2021*, Bachelor of Science (B.S.) in Computer Engineering, Hankuk University of Foreign Studies. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
+- *Mar. 2017 - Feb. 2021*, Bachelor of Language Science (B.L.S.) in Language and Technology, Hankuk University of Foreign Studies. (Advisor : Prof. Jeong-sik Park)
 <br>
 <br>
 
 
-# Work Experience
+# Research Experience
 - *2024.03 - (now)*, Student Researcher, Immersive Interaction Research Lab, ETRI.
 <br>
 <br>
