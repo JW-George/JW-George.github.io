@@ -177,7 +177,9 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 <br>
 <br>
 
-# Honors and Awards
+# Fellowships and Awards
+
+- *Feb. 2024*, Outstanding Research Laboratory Award
 
 - *Fall. 2023*, Scholarship for Global Talent Development
 
@@ -308,6 +310,10 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 <br>
 <br>
+
+# Volunteers
+
+- *Jul. 2017 - Aug. 2017*, World Friends Korea IT Volunteer Program (Mongolia), NIA (National Information Society Agency).
 
 # Other Experience
 
