@@ -110,12 +110,41 @@ IEEE Access
 
 
 ## Peer-reviewed Conference Proceedings
-- 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/interaction.jpg' alt="2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries](https://dl.acm.org/doi/10.1145/3728423.3759412)
+
+Yu, Ari and **Hyun, Jinwoo** and Jang, Hyeong-Gyu and Park, Sung-Yun and Lee, Sang-Kwang
+
+Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis in Sports (Oral)
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3728423.3759412)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/interaction.jpg' alt="2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Weight-Sharing Method for Upsampling Layer from Feature Embedding Recursive Block](https://neurips.cc/virtual/2024/98235)
+
+**Hyun, Jinwoo** and Hyon, YunKyong and Lee, Mira and Lee, Sunju and Ha, Taeyoung and Kim, YoungRock
+
+Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
+
+[**Paper**](https://neurips.cc/virtual/2024/98235)
+
+</div>
+</div>
 
 ## Submitted Papers
 - 
 
  <a name="footnote_2">&dagger;</a>: Corresponding author.
+
 <br>
 <br>
 
@@ -125,7 +154,12 @@ IEEE Access
 - 
 
 ## Posters
-- 
+
+- *Dec. 2025*, Robust Trend Filtering in Wearable Sleep Biosignals via Periodic Activation Neural Networks, *KAI-X Global Conference in Sleep Synergy* (Daejeon, Korea).
+
+- *Nov. 2025*, Neural Network Architecture for Trend Filtering in Periodic Signal Data, *The Korean Society for Industrial and Applied Mathematics 2025 Annual Meeting* (Gyeongju, Korea).
+
+- *Dec. 2024*, Weight-Sharing Method for Upsampling Layer from Feature Embedding Layer, *NeurIPS 2024 Workshop Compression* (Vancouver, Canada).
 
 <br>
 <br>
@@ -199,10 +233,10 @@ IEEE Access
 
 # Other Experience
 
-- *Sep. 2020 - Oct. 2021*, Researcher, R\&D Center, SPELIX Inc.
+- *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
 
-- *Jan. 2020 - Aug. 2020*, Research Intern, R\&D Center, SPELIX Inc.
+- *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
 
 
-<div style="height: 10cm;"></div>
+<div style="height: 5cm;"></div>
 
