@@ -110,11 +110,13 @@ IEEE Access
 
 
 ## Peer-reviewed Conference Proceedings
-
+- 
 
 ## Submitted Papers
+- 
 
  <a name="footnote_2">&dagger;</a>: Corresponding author.
+<br>
 <br>
 
 # Presentations
@@ -123,7 +125,10 @@ IEEE Access
 - 
 
 ## Posters
--
+- 
+
+<br>
+<br>
 
 # Academic Project
 
@@ -135,6 +140,8 @@ IEEE Access
 
 - *Oct. 2019 - Oct. 2020*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
 
+<br>
+<br>
 
 # Honors and Awards
 
@@ -158,6 +165,8 @@ IEEE Access
 
 - *Spring. 2021*, Scholarship for Global Talent Development
 
+<br>
+<br>
 
 # Certifications
 
@@ -185,15 +194,15 @@ IEEE Access
 
 - *Nov. 2020*, IBM Db2 Hosted Essentials (IBM)
 
+<br>
+<br>
+
 # Other Experience
 
-- *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
+- *Sep. 2020 - Oct. 2021*, Researcher, R\&D Center, SPELIX Inc.
 
-- *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
+- *Jan. 2020 - Aug. 2020*, Research Intern, R\&D Center, SPELIX Inc.
 
 
-<br>
-<br>
-<br>
-<br>
+<div style="height: 10cm;"></div>
 
