@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ari Yu"
+title                    : "Jinwoo Hyun"
 description              : ""
-repository               : "ariu9/ariu9.github.io"
+repository               : "JW-George/jwhyun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ari Yu"
-  avatar           : "images/ariyu.jpg"
-  bio              : "MS Student @ UST-ETRI"
+  name             : "Jinwoo Hyun"
+  avatar           : "images/jinwoo.jpg"
+  bio              : "Postdoctoral Fellows @ IBS"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=5cnLFocAAAAJ&hl=ko"
-  email            : "ari@etri.re.kr"
+  email            : "jwhyun@ibs.re.kr"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ariu9"
+  github           : "JW-George"
   google_plus      :
   keybase          :
   instagram        :
