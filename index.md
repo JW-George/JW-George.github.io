@@ -180,25 +180,25 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *Feb. 2024*, Outstanding Research Laboratory Award
 
-- *Aug. 2023*, Scholarship for Global Talent Development
+- *Aug. 2023*, [University Innovation] Scholarship for Global Talent Development
 
-- *Feb. 2023*, Scholarship for Research Assistant
+- *Feb. 2023*, Department Assistantship Scholarship
 
-- *Feb. 2023*, Scholarship for Global Talent Development
+- *Feb. 2023*, [University Innovation] Scholarship for Global Talent Development
 
-- *Aug. 2022*, Scholarship for Global Talent Development
+- *Aug. 2022*, [University Innovation] Scholarship for Global Talent Development
 
-- *Aug. 2022*, BK21 - Scholarship for Graduate student (RA)
+- *Aug. 2022*, [BK21] Scholarship for Graduate student (RA)
 
-- *Feb. 2022*, Scholarship for Global Talent Development
+- *Feb. 2022*, [University Innovation] Scholarship for Global Talent Development
 
 - *Aug. 2021*, Scholarship for Academic Excellence
 
-- *Aug. 2021*, Scholarship for Global Talent Development
+- *Aug. 2021*, [University Innovation] Scholarship for Global Talent Development
 
-- *Aug. 2021*, BK21 - Scholarship for Graduate student (RA)
+- *Aug. 2021*, [BK21] Scholarship for Graduate student (RA)
 
-- *Feb. 2021*, Scholarship for Global Talent Development
+- *Feb. 2021*, [University Innovation] Scholarship for Global Talent Development
 
 <br>
 <br>
