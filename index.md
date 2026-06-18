@@ -16,7 +16,7 @@ author_profile: true
 
 # About Me
 
-I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. and B.L.S degree in Computer Science and Language Technology from [HUFS](https://www.hufs.ac.kr) (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with IBS BIMAG, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. (Bachelor of Science) and B.L.S (Bachelor of Language Science) degree in Computer Science and Language Technology from [HUFS](https://www.hufs.ac.kr) (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with IBS BIMAG, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 <br>
 <br>
 
@@ -28,9 +28,9 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 
 # Educations
 
-- *Mar. 2021 - Feb. 2025*, Ph.D. (Doctor of Philosophy) in Mathematics, Hankuk University of Foreign Studies. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
-- *Mar. 2017 - Feb. 2021*, B.S. (Bachelor of Science) in Computer Engineering, Hankuk University of Foreign Studies. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
-- *Mar. 2017 - Feb. 2021*, B.L.S. (Bachelor of Language Science) in Language and Technology, Hankuk University of Foreign Studies. (Advisor : Prof. Jeong-sik Park)
+- *Mar. 2021 - Feb. 2025*, Ph.D. in Mathematics, Hankuk University of Foreign Studies. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
+- *Mar. 2017 - Feb. 2021*, B.S. in Computer Engineering, Hankuk University of Foreign Studies. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
+- *Mar. 2017 - Feb. 2021*, B.L.S. in Language and Technology, Hankuk University of Foreign Studies. (Advisor : Prof. Jeong-sik Park)
 <br>
 <br>
 
@@ -143,7 +143,6 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 ## Submitted Papers
 - 
 
- <a name="footnote_2">&dagger;</a>: Corresponding author.
 
 <br>
 <br>
@@ -307,6 +306,12 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 - *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
 
 - *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
+
+<br>
+<br>
+
+<a name="footnote_1">\*</a>: Expected.
+<a name="footnote_2">&dagger;</a>: Corresponding author.
 
 
 <div style="height: 5cm;"></div>
