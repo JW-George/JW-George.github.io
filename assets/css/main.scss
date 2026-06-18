@@ -117,14 +117,14 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 100px;
-            max-width: 100px;
+            min-width: 80px;
+            max-width: 80px;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 3cm;
+            padding-left: 1cm;
             order: 2;
         }
     }
