@@ -52,7 +52,7 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 # Publications
 
 ## Journal Articles
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" width="100%" height="100px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" width="100pt" height="100px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optimizing Extended Metro Timetables During Year-End Events Using Graph Neural Networks: A Study on Passenger Flow Prediction and Timetable Optimization](https://ieeexplore.ieee.org/abstract/document/11047236)
@@ -66,7 +66,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="100%" height="100px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="150pt" height="100px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RNN and GNN based prediction of agricultural prices with multivariate time series and its short-term fluctuations smoothing effect](https://www.nature.com/articles/s41598-025-97724-7)
