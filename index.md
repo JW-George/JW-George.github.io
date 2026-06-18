@@ -208,24 +208,20 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Data analytics
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Foundational.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Foundational.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IBM Watson Explorer Deep Analytics Edition Foundational Components](https://www.credly.com/badges/b3a55ddf-c2f1-41de-ad4e-a20473aad7aa?source=linked_in_profile)
-
-**Jinwoo Hyun**
 
 Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/oneWEX.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/oneWEX.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IBM Watson Explorer Deep Analytics Edition oneWEX](https://www.credly.com/badges/cc62d3b5-034f-410e-a9d6-7b1257fb6f0b?source=linked_in_profile)
-
-**Jinwoo Hyun**
 
 Issued by [IBM](https://www.credly.com/org/ibm)
 
@@ -234,36 +230,30 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 ## Computer engineering
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Access.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Access.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IBM Certified Deployment Professional - Security Access Manager](https://www.credly.com/badges/7169fb6d-dc05-424f-8d27-aedda4e75a7e?source=linked_in_profile)
 
-**Jinwoo Hyun**
-
 Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Sales_F.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Sales_F.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sales Foundations for IBM Security Mastery Professional](https://www.credly.com/badges/39da7a82-5454-464e-843b-c03042b8ea46?source=linked_in_profile)
 
-**Jinwoo Hyun**
-
 Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Sales.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Sales.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IBM Cloud Integration Sales Foundations](https://www.credly.com/badges/05dbfdba-8577-4ecc-8b1c-3e8cd8a47a9b?source=linked_in_profile)
-
-**Jinwoo Hyun**
 
 Issued by [IBM](https://www.credly.com/org/ibm)
 
@@ -277,8 +267,6 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 [IBM Db2 Hosted Cloud Administration](https://www.credly.com/badges/57876592-8151-422b-b4bf-43fe42574ccc?source=linked_in_profile)
 
-**Jinwoo Hyun**
-
 Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
@@ -289,19 +277,15 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 [IBM Db2 Hosted Cloud Administration and Implementation Essentials](https://www.credly.com/badges/0bff43a1-e35a-4202-8a46-95f2a541b2ec?source=linked_in_profile)
 
-**Jinwoo Hyun**
-
 Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IBM</div><img src='images/certifications/Db2.png' alt="1" width="30%"></div></div>
+<div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Db2.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [IBM Db2 Hosted Essentials](https://www.credly.com/badges/5089d6f8-490a-467c-8a52-d164813e2de0?source=linked_in_profile)
-
-**Jinwoo Hyun**
 
 Issued by [IBM](https://www.credly.com/org/ibm)
 
