@@ -52,9 +52,8 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 # Publications
 
 ## Journal Articles
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" width="300pt" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" style="width:300px; height:200px;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [Optimizing Extended Metro Timetables During Year-End Events Using Graph Neural Networks: A Study on Passenger Flow Prediction and Timetable Optimization](https://ieeexplore.ieee.org/abstract/document/11047236)
 
@@ -67,7 +66,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="300pt" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="300pt" style="width:250px; height:200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -82,7 +81,7 @@ Scientific Reports
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Algebra Appl.</div><img src='images/paper/encrypt.png' alt="2" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Algebra Appl.</div><img src='images/paper/encrypt.png' alt="2" style="width:300px; height:150px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -97,7 +96,7 @@ Journal of Algebra and Its Applications
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Acc.</div><img src='images/paper/peer.png' alt="2" width="300px" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Acc.</div><img src='images/paper/peer.png' alt="2" width="300px" style="width:300px; height:200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
