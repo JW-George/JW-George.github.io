@@ -52,8 +52,9 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 # Publications
 
 ## Journal Articles
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" width="400pt" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" width="300pt" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Optimizing Extended Metro Timetables During Year-End Events Using Graph Neural Networks: A Study on Passenger Flow Prediction and Timetable Optimization](https://ieeexplore.ieee.org/abstract/document/11047236)
 
@@ -66,8 +67,9 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="450pt" height="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Rep.</div><img src='images/paper/price.png' alt="2" width="300pt" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [RNN and GNN based prediction of agricultural prices with multivariate time series and its short-term fluctuations smoothing effect](https://www.nature.com/articles/s41598-025-97724-7)
 
@@ -80,8 +82,9 @@ Scientific Reports
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Algebra Appl.</div><img src='images/paper/encrypt.png' alt="2" width="100%" height="100px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Algebra Appl.</div><img src='images/paper/encrypt.png' alt="2" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Fully homomorphic encryption scheme and Fermat’s little theorem](https://www.worldscientific.com/doi/abs/10.1142/S0219498824500713?srsltid=AfmBOopCxXjKNg3k-e92OLP6IF4vvno9J9DlgNxQW9KoQHFcvlHkQ8Mp)
 
@@ -94,8 +97,9 @@ Journal of Algebra and Its Applications
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Acc.</div><img src='images/paper/peer.png' alt="2" width="100%" height="100px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Acc.</div><img src='images/paper/peer.png' alt="2" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assessment](https://ieeexplore.ieee.org/abstract/document/10091109)
 
@@ -111,8 +115,9 @@ IEEE Access
 
 ## Peer-reviewed Conference Proceedings
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/paper/caption.png' alt="2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSports 2025</div><img src='images/paper/caption.png' alt="2" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries](https://dl.acm.org/doi/10.1145/3728423.3759412)
 
@@ -125,9 +130,9 @@ Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/paper/sisr.png' alt="2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/paper/sisr.png' alt="2" width="300px" height="200px"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Weight-Sharing Method for Upsampling Layer from Feature Embedding Recursive Block](https://neurips.cc/virtual/2024/98235)
 
