@@ -16,11 +16,13 @@ author_profile: true
 
 # About Me
 
-I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. (Bachelor of Science) and B.L.S (Bachelor of Language Science) degree in Computer Science and Language Technology from [HUFS](https://www.hufs.ac.kr) (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. Since 2025, I have been a Postdoctoral Research Fellow with IBS BIMAG, South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from [HUFS](https://www.hufs.ac.kr) (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at [NIMS](https://www.nims.re.kr) (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+
 <br>
 <br>
 
 <!-- # News
+
 - *2025*, Featured in UST Story: [Development of generative AI-based E-sports service automation platform technology](https://blog.naver.com/uststory/224163085962?trackingCode=rss)
 <br>
 <br>
@@ -37,11 +39,11 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 
 # Research Experience
 
-- *May. 2025 - Feb. 2027[\*](#footnote_1)*, Postdoctoral Research Fellow. BIMAG, IBS (Advisor: Prof. Jae Kyoung Kim).
+- *May. 2025 - Feb. 2027[\*](#footnote_1)*, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. Jae Kyoung Kim).
 
 - *Mar. 2021 - Feb. 2025*, Research Assistant. [KYR Lab](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027), HUFS (Advisor: Prof. Young Rock Kim).
 
-- *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (National Institute for Mathematical Sciences) (Advisor: Ph.D. Yunkyong Hyon).
+- *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (Advisor: Ph.D. Yunkyong Hyon).
 
 - *Jul. 2019 - Feb. 2021*, Undergraduate Research Assistant. KYR Lab, HUFS (Advisor: Prof. Young Rock Kim).
 
@@ -146,7 +148,6 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Submitted Papers
 - 
-
 
 <br>
 <br>
