@@ -29,9 +29,9 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 # Educations
 
-- *Mar. 2021 - Feb. 2025*, Ph.D. in Mathematics, Hankuk University of Foreign Studies. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
-- *Mar. 2017 - Feb. 2021*, B.S. in Computer Engineering, Hankuk University of Foreign Studies. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
-- *Mar. 2017 - Feb. 2021*, B.L.S. in Language and Technology, Hankuk University of Foreign Studies. (Advisor : Prof. Jeong-sik Park)
+- *Mar. 2021 - Feb. 2025*, Ph.D. in Mathematics, HUFS. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
+- *Mar. 2017 - Feb. 2021*, B.S. in Computer Engineering, HUFS. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
+- *Mar. 2017 - Feb. 2021*, B.L.S. in Language and Technology, HUFS. (Advisor : Prof. Jeong-sik Park)
 
 <br>
 
