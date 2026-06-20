@@ -53,6 +53,7 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 # Publications
 
 ## Journal Articles
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Intell. Transp. Syst.</div><img src='images/paper/metro.png' alt="1" style="width:350px; height:180px; object-fit:contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -165,7 +166,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (Working)
 
-    &dagger;: Corresponding author.
+    &Dagger;: Co-first author. &dagger;: Corresponding author.
 <br>
 
 # Presentations
