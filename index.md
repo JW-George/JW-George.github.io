@@ -16,8 +16,7 @@ author_profile: true
 
 # About Me
 
-I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute for Basic Science) [BIMAG](https://www.ibs.re.kr/bimag) (Biomedical Mathematics Group), led by Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/). I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from [HUFS](https://www.hufs.ac.kr) (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at [NIMS](https://www.nims.re.kr) (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
-
+I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 <br>
 <br>
 
@@ -39,17 +38,17 @@ I am a Postdoctoral Research Fellow at [IBS](https://www.ibs.re.kr) (Institute f
 
 # Research Experience
 
-- *May. 2025 - Feb. 2027[\*](#footnote_1)*, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. Jae Kyoung Kim).
+- *May. 2025 - Feb. 2027[\*](#footnote_1)*, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
 
-- *Mar. 2021 - Feb. 2025*, Research Assistant. [KYR Lab](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027), HUFS (Advisor: Prof. Young Rock Kim).
+- *Mar. 2021 - Feb. 2025*, Research Assistant. KYR Lab, [HUFS](https://www.hufs.ac.kr) (Advisor: Prof. [Young Rock Kim]](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027)).
 
-- *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (Advisor: Ph.D. Yunkyong Hyon).
+- *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (Advisor: Ph.D. [Yunkyong Hyon](https://sites.google.com/view/yunkyong/home)).
 
 - *Jul. 2019 - Feb. 2021*, Undergraduate Research Assistant. KYR Lab, HUFS (Advisor: Prof. Young Rock Kim).
 
     <a name="footnote_1">\*</a>: Expected.
-  <br>
-  <br>
+<br>
+<br>
 
 # Publications
 
@@ -147,15 +146,36 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 </div>
 
 ## Submitted Papers
-- 
 
+- 
 <br>
 <br>
 
 # Presentations
 
 ## Talks
-- 
+
+- *May. 2026*, Implicit Neural Representations for Robust Trend Filtering in Bio-Signals, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
+- *Feb. 2026*, Improving Classification Performance by Leveraging Binning as a Pretext Task in Self-Supervised Learning, *Hankuk University of Foreign Studies* (Seoul, Korea).
+
+- *Feb. 2026*, Sleep Disease Progression Estimation using Conditional Flow-Matching, *Hankuk University of Foreign Studies* (Seoul, Korea).
+
+- *Jan. 2026*, Interpretable time series forecasting based on time series decomposition, *Hankuk University of Foreign Studies* (Seoul, Korea).
+
+- *Jan. 2026*, Sleep Disorder Classification using Self-Supervised Learning on Galaxy Watch, *Hankuk University of Foreign Studies* (Seoul, Korea).
+
+- *Nov. 2026*, Periodic activation Neural Networks for robust trend filtering in signal data, *Workshop on the Development of an Infectious Disease Risk Analysis and Prediction System Using Data* (Seoul, Korea).
+
+- *Oct. 2025*, Research for Applying Flow Matching to the Laplacian Pyramid Super-Resolution Framework, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
+- *Sep. 2025*, Single Image Super-Resolution using Scale-up Skip Connection, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
+- *Jan. 2025*, Multivariate Time Series Data Analysis & Super-Resolution using Deep Laplacian Pyramid Networks, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
+- *Jun. 2023*, Deep Learning-based Time Series Data Analysis, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
+- *Feb. 2023*, Time Series Data Analysis Simulation for Industrial and Medical Applications, *National Institute for Mathematical Sciences* (Daejeon, Korea).
 
 ## Posters
 
@@ -164,7 +184,6 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 - *Nov. 2025*, Neural Network Architecture for Trend Filtering in Periodic Signal Data, *The Korean Society for Industrial and Applied Mathematics 2025 Annual Meeting* (Gyeongju, Korea).
 
 - *Dec. 2024*, Weight-Sharing Method for Upsampling Layer from Feature Embedding Layer, *NeurIPS 2024 Workshop Compression* (Vancouver, Canada).
-
 <br>
 <br>
 
@@ -177,7 +196,6 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 - *Sep. 2023 - Aug. 2024*, Artificial Intelligence-type Modeling for Industrial and Medical Areas using Computational Mathematical Sciences, NIMS.
 
 - *Oct. 2019 - Oct. 2020*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
-
 <br>
 <br>
 
@@ -204,7 +222,6 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 - *Aug. 2021*, [BK21] Scholarship for Graduate student (RA)
 
 - *Feb. 2021*, [University Innovation] Scholarship for Global Talent Development
-
 <br>
 <br>
 
@@ -295,14 +312,12 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
-
 <br>
 <br>
 
 # Volunteers
 
 - *Jul. 2017 - Aug. 2017*, World Friends Korea IT Volunteer Program (Mongolia), NIA (National Information Society Agency).
-
 <br>
 <br>
 
@@ -311,7 +326,6 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 - *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
 
 - *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
-
 <br>
 <br>
 
