@@ -16,7 +16,7 @@ author_profile: true
 
 # About Me
 
-I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. (Doctor of Philosophy) degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 
 <br>
 
@@ -30,8 +30,8 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 # Educations
 
 - *Mar. 2021 - Feb. 2025*, Ph.D. in Mathematics, HUFS. Thesis: Mathematical Modeling and Algorithmic Optimization in Machine Learning: Peer Reviewer Recommendation,  Metro Timetable Optimization, Agricultural Commodity Price Prediction, and Super-Resolution (Advisor: Prof. Young Rock Kim)
-- *Mar. 2017 - Feb. 2021*, B.S. in Computer Engineering, HUFS. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor : Prof. Nak Hyun Kim)
-- *Mar. 2017 - Feb. 2021*, B.L.S. in Language and Technology, HUFS. (Advisor : Prof. Jeong-sik Park)
+- *Mar. 2017 - Feb. 2021*, B.S. in Computer Engineering, HUFS. Thesis: Article Writing Advisor System based on Korean Corpus with GPT-2 Language Model (Advisor: Prof. Nak Hyun Kim)
+- *Mar. 2017 - Feb. 2021*, B.L.S. in Language and Technology, HUFS. (Advisor: Prof. Jeong-sik Park)
 
 <br>
 
@@ -162,9 +162,9 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts (submitted to EMNLP)
 
-- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks (Working)
+- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks (In preparation)
 
-- *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (Working)
+- *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (In preparation)
 
     &Dagger;: Co-first author. &dagger;: Corresponding author.
 <br>
@@ -245,7 +245,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 # Certifications
 
-## Data analytics
+## Data Analytics & AI
 
 <div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Foundational.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -267,7 +267,7 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 </div>
 </div>
 
-## Computer engineering
+## Cloud, Security & Database Systems
 
 <div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Access.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -298,8 +298,6 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
-
-## Database system
 
 <div class='paper-box2'><div class='paper-box-image'><div><img src='images/certifications/Administration.png' alt="1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
