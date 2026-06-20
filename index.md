@@ -147,7 +147,23 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Submitted Papers
 
-- 
+- *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations (submitted to Nature Communications).
+
+- *2026*, Robust Parameter Estimation for Dynamical Systems with Discontinuous Inputs: Deep Predictor-Corrector Network (DePCoN) Approach (submitted to SIAM Review).
+
+- *2026*, LLM-Based Peer Reviewer Recommendation System for Scientific Manuscript Submissions (submitted to Scientometrics)
+
+- *2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations (submitted to NeurIPS)
+
+- *2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs (submitted to NeurIPS)
+
+- *2026*, Category-Aware Multi-Positive Contrastive Learning for Biological Literature Representation (submitted to NeurIPS)
+
+- *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts (submitted to EMNLP)
+
+- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks (Working)
+
+- *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (Working)
 
     &dagger;: Corresponding author.
 <br>
@@ -330,8 +346,8 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 <br>
 
-<a name="footnote_1">\*</a>: Expected.
-<a name="footnote_2">&dagger;</a>: Corresponding author.
+<!-- <a name="footnote_1">\*</a>: Expected.
+<a name="footnote_2">&dagger;</a>: Corresponding author. -->
 
 
 <div style="height: 5cm;"></div>
