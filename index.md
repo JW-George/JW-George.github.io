@@ -40,7 +40,7 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 - *May. 2025 - Feb. 2027\**, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
 
-- *Mar. 2021 - Feb. 2025*, Research Assistant. KYR Lab, [HUFS](https://www.hufs.ac.kr) (Advisor: Prof. [Young Rock Kim]](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027)).
+- *Mar. 2021 - Feb. 2025*, Research Assistant. KYR Lab, [HUFS](https://www.hufs.ac.kr) (Advisor: Prof. [Young Rock Kim](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027)).
 
 - *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (Advisor: Ph.D. [Yunkyong Hyon](https://sites.google.com/view/yunkyong/home)).
 
