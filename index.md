@@ -16,6 +16,8 @@ author_profile: true
 
 # About Me
 
+Postdoctoral Research Fellow working on AI for Science and Social Science.
+
 I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 
 <br>
@@ -146,7 +148,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 </div>
 </div>
 
-## Submitted Papers
+## Manuscripts in Under Review
 
 - *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations (submitted to Nature Communications).
 
@@ -167,6 +169,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 - *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (In preparation)
 
     &Dagger;: Co-first author. &dagger;: Corresponding author.
+
 <br>
 
 # Presentations
