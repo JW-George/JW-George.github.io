@@ -150,31 +150,33 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Manuscripts in Under Review
 
-- *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations (submitted to Nature Communications).
+- *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations&Dagger; (submitted to Nature Communications).
 
-- *2026*, Robust Parameter Estimation for Dynamical Systems with Discontinuous Inputs: Deep Predictor-Corrector Network (DePCoN) Approach (submitted to SIAM Review).
+- *2026*, Robust Parameter Estimation for Dynamical Systems with Discontinuous Inputs: Deep Predictor-Corrector Network (DePCoN) Approach&Dagger; (submitted to SIAM Review).
 
-- *2026*, LLM-Based Peer Reviewer Recommendation System for Scientific Manuscript Submissions (submitted to Scientometrics)
+- *2026*, LLM-Based Peer Reviewer Recommendation System for Scientific Manuscript Submissions&Dagger; (submitted to Scientometrics)
 
-- *2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations (submitted to NeurIPS)
+- *2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations&Dagger; (submitted to NeurIPS)
 
-- *2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs (submitted to NeurIPS)
+- *2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs&Dagger; (submitted to NeurIPS)
 
-- *2026*, Category-Aware Multi-Positive Contrastive Learning for Biological Literature Representation (submitted to NeurIPS)
+- *2026*, Category-Aware Multi-Positive Contrastive Learning for Biological Literature Representation&dagger; (submitted to NeurIPS)
 
-- *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts (submitted to EMNLP)
+- *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts&dagger; (submitted to EMNLP)
 
-- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks (In preparation)
+- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks&Dagger; (In preparation)
 
-- *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation (In preparation)
+- *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation&dagger; (In preparation)
 
-    &Dagger;: Co-first author. &dagger;: Corresponding author.
+    &Dagger;: (Co-)first author. &dagger;: Corresponding author. \*: Expected.
 
 <br>
 
 # Presentations
 
 ## Talks
+
+- *Jun. 2026*, Robust and tuning-free time series decomposition via implicit neural representations, *International Conference for the 80th Anniversary of the Korean Mathematical Society* (Seoul, Korea).
 
 - *May. 2026*, Implicit Neural Representations for Robust Trend Filtering in Bio-Signals, *National Institute for Mathematical Sciences* (Daejeon, Korea).
 
