@@ -76,7 +76,7 @@ IEEE Transactions on Intelligent Transportation Systems
 
 [RNN and GNN based prediction of agricultural prices with multivariate time series and its short-term fluctuations smoothing effect](https://www.nature.com/articles/s41598-025-97724-7)
 
-Min, Youngho and Kim, Young Rock and Hyon, YunKyong and Ha, Taeyoung and Lee, Sunju and **Hyun, Jinwoo<sup>&dagger;</sup> ** and Lee, Mi Ra
+Min, Youngho and Kim, Young Rock and Hyon, YunKyong and Ha, Taeyoung and Lee, Sunju and **Hyun, Jinwoo<sup>&dagger;</sup>** and Lee, Mi Ra
 
 Scientific Reports
 
@@ -333,6 +333,48 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
+
+<br>
+
+
+
+# Volunteers
+
+- *2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+
+- *2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+
+- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+
+- *2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
+<!--  -->
+
+- *2026 Winter*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+
+- *2026 Winter*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+
+- *2026 Winter*, Cheyoung Lee, *Graduate Student of Department of Mathematical Sciences at Seoul National University*.
+
+- *2026 Winter*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
+<!--  -->
+
+- *2025 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
+
+- *2025 Summer*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
+
+- *2025 Summer*, Adnan Sadik, *Undergraduate at Department of Mathematical Sciences, KAIST*.
+<!--  -->
+
+- *2025 Winter*, Cheyoung Lee, *Undergraduate Student at Department of Mathematics, Hankuk University of Foreign Studies*.
+
+- *2025 Winter*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
+<!--  -->
+
+- *2024 Summer*, Cheyoung Lee, *Undergraduate Student at Department of Mathematics, Hankuk University of Foreign Studies*.
+
+- *2024 Summer*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
+<!--  -->
+
 
 <br>
 
