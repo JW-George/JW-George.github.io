@@ -338,43 +338,27 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 
 
-# Volunteers
+# TEACHING
 
-- *2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+## Teaching Assistant
 
-- *2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+- 
 
-- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+## Mentoring
 
-- *2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
-<!--  -->
+- *2024 Summer - 2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
 
-- *2026 Winter*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+- *2026 Winter - 2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
 
-- *2026 Winter*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+- *2026 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
 
-- *2026 Winter*, Cheyoung Lee, *Graduate Student of Department of Mathematical Sciences at Seoul National University*.
+- *2026 Summer - 2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
 
-- *2026 Winter*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
-<!--  -->
-
-- *2025 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
-
-- *2025 Summer*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
+- *2025 Summer - 2026 Winter*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
 
 - *2025 Summer*, Adnan Sadik, *Undergraduate at Department of Mathematical Sciences, KAIST*.
-<!--  -->
 
-- *2025 Winter*, Cheyoung Lee, *Undergraduate Student at Department of Mathematics, Hankuk University of Foreign Studies*.
-
-- *2025 Winter*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
-<!--  -->
-
-- *2024 Summer*, Cheyoung Lee, *Undergraduate Student at Department of Mathematics, Hankuk University of Foreign Studies*.
-
-- *2024 Summer*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
-<!--  -->
-
+- *2024 Summer - 2025 Winter*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
 
 <br>
 
