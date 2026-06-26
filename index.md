@@ -40,7 +40,7 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 # Research Experience
 
-- *May. 2025 - Feb. 2027<sup>\*</sup>*, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
+- *May. 2025 - Feb. 2027\**, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
 
 - *Mar. 2021 - Feb. 2025*, Research Assistant. KYR Lab, [HUFS](https://www.hufs.ac.kr) (Advisor: Prof. [Young Rock Kim](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027)).
 
@@ -212,13 +212,15 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 # Academic Project
 
-- *May. 2025 - Feb. 2027<sup>\*</sup>*, Multiscale dynamics in biosciences and medicine, IBS.
+- *May. 2025 - Feb. 2027\**, Multiscale dynamics in biosciences and medicine, IBS.
 
 - *Nov. 2021 - Feb. 2025*, Research on tropical geometry and crystals in representation theory, HUFS.
 
 - *Sep. 2023 - Aug. 2024*, Artificial Intelligence-type Modeling for Industrial and Medical Areas using Computational Mathematical Sciences, NIMS.
 
 - *Oct. 2019 - Oct. 2020*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
+
+  \*: Expected.
 
 <br>
 
@@ -336,13 +338,22 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 <br>
 
-
-
 # TEACHING
 
 ## Teaching Assistant
 
-- 
+- *2024 Fall*, G51103101 *Topics on Mathematics for Artificial intelligence* 
+- *2024 Fall*, G51102101 *Topics on Mathematics for Deep Learning*
+- *2024 Spring*,  G52612101 *Mathematics for Artificial Intelligence I*
+- *2024 Spring*,  G52624101 *Mathematics for Deep Learning I*
+- *2023 Fall*, G52626101 *Mathematics for Artificial Intelligence Ⅲ*
+- *2023 Spring*, G52623101 *Mathematics for Artificial Intelligence II*
+- *2022 Fall*, G52625101 *Mathematics for Deep Learning Ⅱ*
+- *2022 Spring*,  G52612101 *Mathematics for Deep Learning I*
+- *2021 Fall*, G52624101 *Mathematics for Deep Learning I*
+- *2020 Fall*,  J05401101 *Machine Learning for Language Data Analysis*
+- *2020 Spring*, J11025101 *Statistics for Language Analysis (1)*
+- *2019 Fall*, J05401101 *Machine Learning for Language Data Analysis*
 
 ## Mentoring
 
@@ -352,7 +363,7 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 - *2026 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
 
-- *2026 Summer - 2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
 
 - *2025 Summer - 2026 Winter*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
 
@@ -364,15 +375,15 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 # Volunteers
 
-- *Jul. 2017 - Aug. 2017*, World Friends Korea IT Volunteer Program (Mongolia), NIA (National Information Society Agency).
+- *Jul. 2017 - Aug. 2017*, World Friends Korea IT Volunteer Program (Mongolia), *NIA (National Information Society Agency)*.
 
 <br>
 
 # Other Experience
 
-- *Sep. 2020 - Oct. 2021*, Researcher, R&D Center, SPELIX Inc.
+- *Sep. 2020 - Oct. 2021*, Researcher, *R&D Center, SPELIX Inc*.
 
-- *Jan. 2020 - Aug. 2020*, Research Intern, R&D Center, SPELIX Inc.
+- *Jan. 2020 - Aug. 2020*, Research Intern, *R&D Center, SPELIX Inc*.
 
 <br>
 
