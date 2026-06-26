@@ -174,7 +174,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 # Presentations
 
-## Talks
+## Invited Talks
 
 - *Jun. 2026*, Robust and tuning-free time series decomposition via implicit neural representations, *International Conference for the 80th Anniversary of the Korean Mathematical Society* (Seoul, Korea).
 
@@ -200,7 +200,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *Feb. 2023*, Time Series Data Analysis Simulation for Industrial and Medical Applications, *National Institute for Mathematical Sciences* (Daejeon, Korea).
 
-## Posters
+## Contributed talks / Posters
 
 - *Dec. 2025*, Robust Trend Filtering in Wearable Sleep Biosignals via Periodic Activation Neural Networks, *KAI-X Global Conference in Sleep Synergy* (Daejeon, Korea).
 
