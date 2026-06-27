@@ -150,19 +150,19 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Manuscripts in Under Review
 
-- *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations<sup>&Dagger;</sup> (submitted to Nature Communications).
+- *2026*, Robust and Tuning-free Decomposition of Scientific Time Series via Implicit Neural Representations<sup>&Dagger;</sup> (Under Review).
 
-- *2026*, Robust Parameter Estimation for Dynamical Systems with Discontinuous Inputs: Deep Predictor-Corrector Network (DePCoN) Approach<sup>&Dagger;</sup> (submitted to SIAM Review).
+- *2026*, Robust Parameter Estimation for Dynamical Systems with Discontinuous Inputs: Deep Predictor-Corrector Network (DePCoN) Approach<sup>&Dagger;</sup> (Under Review).
 
-- *2026*, LLM-Based Peer Reviewer Recommendation System for Scientific Manuscript Submissions<sup>&Dagger;</sup> (submitted to Scientometrics)
+- *2026*, LLM-Based Peer Reviewer Recommendation System for Scientific Manuscript Submissions<sup>&Dagger;</sup> (Under Review)
 
-- *2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations<sup>&Dagger;</sup> (submitted to NeurIPS)
+- *2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations<sup>&Dagger;</sup> (Under Review)
 
-- *2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs<sup>&Dagger;</sup> (submitted to NeurIPS)
+- *2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs<sup>&Dagger;</sup> (Under Review)
 
-- *2026*, Category-Aware Multi-Positive Contrastive Learning for Biological Literature Representation<sup>&dagger;</sup> (submitted to NeurIPS)
+- *2026*, Category-Aware Multi-Positive Contrastive Learning for Biological Literature Representation<sup>&dagger;</sup> (Under Review)
 
-- *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts<sup>&dagger;</sup> (submitted to EMNLP)
+- *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts<sup>&dagger;</sup> (Under Review)
 
 - *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks<sup>&Dagger;</sup> (In preparation)
 
