@@ -18,6 +18,7 @@ author_profile: true
 
 Postdoctoral Research Fellow working on Deep Learning-Based Data Science and AI for Science & Social Science.
 
+
 I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
 
 <br>
