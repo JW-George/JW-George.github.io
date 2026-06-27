@@ -343,16 +343,27 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 ## Teaching Assistant
 
 - *2024 Fall*, G51103101 *Topics on Mathematics for Artificial intelligence* 
+
 - *2024 Fall*, G51102101 *Topics on Mathematics for Deep Learning*
+
 - *2024 Spring*,  G52612101 *Mathematics for Artificial Intelligence I*
+
 - *2024 Spring*,  G52624101 *Mathematics for Deep Learning I*
-- *2023 Fall*, G52626101 *Mathematics for Artificial Intelligence Ⅲ*
+
+- *2023 Fall*, G52626101 *Mathematics for Artificial Intelligence III*
+
 - *2023 Spring*, G52623101 *Mathematics for Artificial Intelligence II*
-- *2022 Fall*, G52625101 *Mathematics for Deep Learning Ⅱ*
+
+- *2022 Fall*, G52625101 *Mathematics for Deep Learning II*
+
 - *2022 Spring*,  G52612101 *Mathematics for Deep Learning I*
+
 - *2021 Fall*, G52624101 *Mathematics for Deep Learning I*
+
 - *2020 Fall*,  J05401101 *Machine Learning for Language Data Analysis*
+
 - *2020 Spring*, J11025101 *Statistics for Language Analysis (1)*
+
 - *2019 Fall*, J05401101 *Machine Learning for Language Data Analysis*
 
 ## Mentoring
@@ -391,5 +402,5 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 <a name="footnote_2">&dagger;</a>: Corresponding author. -->
 
 
-<div style="height: 5cm;"></div>
+<div style="height: 3cm;"></div>
 
