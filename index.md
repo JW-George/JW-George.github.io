@@ -385,6 +385,40 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 <br>
 
+# Collaborators
+
+## Academic
+
+- Prof. Hyeontae Jo, Department of Mathematics, Ajou University.
+
+- Prof. Youngho Min, Ingenium College of Liberal Arts, Kwangwoon University.
+
+- Prof. Sungeun Jung, Department of Mathematics, Hankuk University of Foreign Studies.
+
+- Prof. Hyoung Joong Kim, School of Cybersecurity, Korea University.
+
+- Ph.D. Gyuyoung Hwang, Biomedical Mathematics Group, Institute for Basic Science.
+
+- Ph.D. YunKyong Hyon, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+
+- Ph.D. Ha, Taeyoung, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+
+- Ph.D. Lee, Sunju, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+
+- Ph.D. Lee, Mi Ra, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+
+- Ph.D. Sang-Kwang Lee, Electronics and Telecommunications Research Institute.
+
+- Ph.D. DongHoon Choi, Korea Institute of Science and Technology Information.
+
+## Industry
+
+- Samgu Chun, Research Lab, Double Chain.
+
+- Wonseok Choi, Research Lab, Double Chain. 
+
+<br>
+
 # Volunteers
 
 - *Jul. 2017 - Aug. 2017*, World Friends Korea IT Volunteer Program (Mongolia), *NIA (National Information Society Agency)*.
