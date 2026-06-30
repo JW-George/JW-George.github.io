@@ -401,11 +401,11 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 - Ph.D. YunKyong Hyon, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
 
-- Ph.D. Ha, Taeyoung, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+- Ph.D. Taeyoung Ha, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
 
-- Ph.D. Lee, Sunju, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+- Ph.D. Sunju Lee, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
 
-- Ph.D. Lee, Mi Ra, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
+- Ph.D. Mi Ra Lee, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
 
 - Ph.D. Sang-Kwang Lee, Electronics and Telecommunications Research Institute.
 
