@@ -177,6 +177,8 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Invited Talks
 
+- *Jul. 2026*, LoRA-Adapted Laplacian Pyramid Network with Non-Local Sparse Attention for Single Image Super-Resolution, *National Institute for Mathematical Sciences* (Daejeon, Korea).
+
 - *Jun. 2026*, Robust and tuning-free time series decomposition via implicit neural representations, *International Conference for the 80th Anniversary of the Korean Mathematical Society* (Seoul, Korea).
 
 - *May. 2026*, Implicit Neural Representations for Robust Trend Filtering in Bio-Signals, *National Institute for Mathematical Sciences* (Daejeon, Korea).
@@ -219,7 +221,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *Sep. 2023 - Aug. 2024*, Artificial Intelligence-type Modeling for Industrial and Medical Areas using Computational Mathematical Sciences, NIMS.
 
-- *Oct. 2019 - Oct. 2020*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
+- *Apr. 2019 - Dec. 2019*, Development of a Blockchain Application Platform for Open Peer Review to Improve Trustworthiness and Transparency for Scholarly Publishing, KISTI (Korea Institute of Science and Technology Information).
 
   \*: Expected.
 
