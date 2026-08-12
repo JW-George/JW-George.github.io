@@ -47,7 +47,7 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 - *Sep. 2023 - Aug. 2024*, Research Intern. Data Analytics Team, [NIMS](https://www.nims.re.kr) (Advisor: Ph.D. [Yunkyong Hyon](https://sites.google.com/view/yunkyong/home)).
 
-- *Jul. 2019 - Feb. 2021*, Undergraduate Research Assistant. KYR Lab, HUFS (Advisor: Prof. Young Rock Kim).
+- *Jul. 2019 - Feb. 2021*, Undergraduate Research Assistant. KYR Lab, HUFS (Advisor: Prof. [Young Rock Kim](https://app.rndcircle.io/lab/762e666d-4612-4cf5-8765-31c73293a027)).
 
     \*: Expected.
 
@@ -62,7 +62,7 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 [Optimizing Extended Metro Timetables During Year-End Events Using Graph Neural Networks: A Study on Passenger Flow Prediction and Timetable Optimization](https://ieeexplore.ieee.org/abstract/document/11047236)
 
-**Hyun, Jinwoo** and Joe, Hyungjun and Lee, Cheyoung and Kim, Young Rock and Min, Youngho
+**Jinwoo Hyun** and Hyungjun Joe and Cheyoung Lee and Young Rock Kim and Youngho Min
 
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -77,7 +77,7 @@ IEEE Transactions on Intelligent Transportation Systems
 
 [RNN and GNN based prediction of agricultural prices with multivariate time series and its short-term fluctuations smoothing effect](https://www.nature.com/articles/s41598-025-97724-7)
 
-Min, Youngho and Kim, Young Rock and Hyon, YunKyong and Ha, Taeyoung and Lee, Sunju and **Hyun, Jinwoo<sup>&dagger;</sup>** and Lee, Mi Ra
+Youngho Min and Young Rock Kim and YunKyong Hyon and Taeyoung Ha and Sunju Lee and **Jinwoo Hyun<sup>&dagger;</sup>** and Mi Ra Lee
 
 Scientific Reports
 
@@ -92,7 +92,7 @@ Scientific Reports
 
 [Fully homomorphic encryption scheme and Fermat’s little theorem](https://www.worldscientific.com/doi/abs/10.1142/S0219498824500713?srsltid=AfmBOopCxXjKNg3k-e92OLP6IF4vvno9J9DlgNxQW9KoQHFcvlHkQ8Mp)
 
-Chun, Samgu and Choi, Wonseok and **Hyun, Jinwoo** and Kang, SeokJin and Kim, Hyoung Joong and Kim, YoungRock
+Samgu Chun and Wonseok Choi and **Jinwoo Hyun** and Hyoung Joong Kim and YoungRock Kim
 
 Journal of Algebra and Its Applications
 
@@ -107,7 +107,7 @@ Journal of Algebra and Its Applications
 
 [An Algorithm for Peer Reviewer Recommendation Based on Scholarly Activity Assessment](https://ieeexplore.ieee.org/abstract/document/10091109)
 
-Choi, DongHoon and **Hyun, Jinwoo** and Kim, YoungRock
+DongHoon Choi and **Jinwoo Hyun** and YoungRock Kim
 
 IEEE Access
 
@@ -125,7 +125,7 @@ IEEE Access
 
 [Single-anchored Multi-modal Dense Video Captioning for Esports Broadcasts Commentaries](https://dl.acm.org/doi/10.1145/3728423.3759412)
 
-Yu, Ari and **Hyun, Jinwoo** and Jang, Hyeong-Gyu and Park, Sung-Yun and Lee, Sang-Kwang
+Ari Yu and **Jinwoo Hyun** and Hyeong-Gyu Jang and Sung-Yun Park and Sang-Kwang Lee
 
 Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis in Sports (Oral)
 
@@ -140,7 +140,7 @@ Proceedings of the 8th International ACM Workshop on Multimedia Content Analysis
 
 [Weight-Sharing Method for Upsampling Layer from Feature Embedding Recursive Block](https://neurips.cc/virtual/2024/98235)
 
-**Hyun, Jinwoo** and Hyon, YunKyong and Lee, Mira and Lee, Sunju and Ha, Taeyoung and Kim, YoungRock
+**Jinwoo Hyun** and YunKyong Hyon and Mira Lee and Sunju Lee and Taeyoung Ha and YoungRock Kim
 
 Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
@@ -205,6 +205,8 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Contributed talks / Posters
 
+- *Aug.2026*, Robust Decomposition of Biomedical Signals via Implicit Neural Representations, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
+
 - *Dec. 2025*, Robust Trend Filtering in Wearable Sleep Biosignals via Periodic Activation Neural Networks, *KAI-X Global Conference in Sleep Synergy* (Daejeon, Korea).
 
 - *Nov. 2025*, Neural Network Architecture for Trend Filtering in Periodic Signal Data, *The Korean Society for Industrial and Applied Mathematics 2025 Annual Meeting* (Gyeongju, Korea).
@@ -250,6 +252,90 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 - *Aug. 2021*, [BK21] Scholarship for Graduate student (RA)
 
 - *Feb. 2021*, [University Innovation] Scholarship for Global Talent Development
+
+<br>
+
+# TEACHING
+
+## Teaching Assistant
+
+- *2024 Fall*, G51103101 *Topics on Mathematics for Artificial intelligence* 
+
+- *2024 Fall*, G51102101 *Topics on Mathematics for Deep Learning*
+
+- *2024 Spring*,  G52612101 *Mathematics for Artificial Intelligence I*
+
+- *2024 Spring*,  G52624101 *Mathematics for Deep Learning I*
+
+- *2023 Fall*, G52626101 *Mathematics for Artificial Intelligence III*
+
+- *2023 Spring*, G52623101 *Mathematics for Artificial Intelligence II*
+
+- *2022 Fall*, G52625101 *Mathematics for Deep Learning II*
+
+- *2022 Spring*,  G52612101 *Mathematics for Deep Learning I*
+
+- *2021 Fall*, G52624101 *Mathematics for Deep Learning I*
+
+- *2020 Fall*,  J05401101 *Machine Learning for Language Data Analysis*
+
+- *2020 Spring*, J11025101 *Statistics for Language Analysis (1)*
+
+- *2019 Fall*, J05401101 *Machine Learning for Language Data Analysis*
+
+## Mentoring
+
+- *2024 Summer - 2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
+
+- *2025 Winter - 2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+
+- *2025 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+
+- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+
+- *2025 Summer - 2026 Summer*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
+
+- *2025 Summer*, Adnan Sadik, *Undergraduate at Department of Mathematical Sciences, KAIST*.
+
+- *2024 Summer - 2024 Winter*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
+
+<br>
+
+# Collaborators
+
+## Academic
+
+- Prof. Jae Kyoung Kim, Korea Advanced Institute of Science and Technology.
+
+- Prof. YoungRock Kim, Hankuk University of Foreign Studies.
+
+- Prof. Sungeun Jung, Hankuk University of Foreign Studies.
+
+- Prof. Hyeontae Jo, Ajou University.
+
+- Prof. Youngho Min, Kwangwoon University.
+
+- Prof. Hyoung Joong Kim, Korea University.
+
+- Ph.D. Gyuyoung Hwang, Institute for Basic Science.
+
+- Ph.D. YunKyong Hyon, National Institute for Mathematical Sciences.
+
+- Ph.D. Taeyoung Ha, National Institute for Mathematical Sciences.
+
+- Ph.D. Sunju Lee, National Institute for Mathematical Sciences.
+
+- Ph.D. Mi Ra Lee, National Institute for Mathematical Sciences.
+
+- Ph.D. Sang-Kwang Lee, Electronics and Telecommunications Research Institute.
+
+- Ph.D. DongHoon Choi, Korea Institute of Science and Technology Information.
+
+## Industry
+
+- Samgu Chun, Research Lab, Double Chain.
+
+- Wonseok Choi, Research Lab, Double Chain. 
 
 <br>
 
@@ -338,86 +424,6 @@ Issued by [IBM](https://www.credly.com/org/ibm)
 
 </div>
 </div>
-
-<br>
-
-# TEACHING
-
-## Teaching Assistant
-
-- *2024 Fall*, G51103101 *Topics on Mathematics for Artificial intelligence* 
-
-- *2024 Fall*, G51102101 *Topics on Mathematics for Deep Learning*
-
-- *2024 Spring*,  G52612101 *Mathematics for Artificial Intelligence I*
-
-- *2024 Spring*,  G52624101 *Mathematics for Deep Learning I*
-
-- *2023 Fall*, G52626101 *Mathematics for Artificial Intelligence III*
-
-- *2023 Spring*, G52623101 *Mathematics for Artificial Intelligence II*
-
-- *2022 Fall*, G52625101 *Mathematics for Deep Learning II*
-
-- *2022 Spring*,  G52612101 *Mathematics for Deep Learning I*
-
-- *2021 Fall*, G52624101 *Mathematics for Deep Learning I*
-
-- *2020 Fall*,  J05401101 *Machine Learning for Language Data Analysis*
-
-- *2020 Spring*, J11025101 *Statistics for Language Analysis (1)*
-
-- *2019 Fall*, J05401101 *Machine Learning for Language Data Analysis*
-
-## Mentoring
-
-- *2024 Summer - 2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
-
-- *2026 Winter - 2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
-
-- *2026 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
-
-- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
-
-- *2025 Summer - 2026 Winter*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
-
-- *2025 Summer*, Adnan Sadik, *Undergraduate at Department of Mathematical Sciences, KAIST*.
-
-- *2024 Summer - 2025 Winter*, Hyungjun Joe, *Undergraduate Student at School of Mechanical Engineering, Chung-Ang University*.
-
-<br>
-
-# Collaborators
-
-## Academic
-
-- Prof. Hyeontae Jo, Department of Mathematics, Ajou University.
-
-- Prof. Youngho Min, Ingenium College of Liberal Arts, Kwangwoon University.
-
-- Prof. Sungeun Jung, Department of Mathematics, Hankuk University of Foreign Studies.
-
-- Prof. Hyoung Joong Kim, School of Cybersecurity, Korea University.
-
-- Ph.D. Gyuyoung Hwang, Biomedical Mathematics Group, Institute for Basic Science.
-
-- Ph.D. YunKyong Hyon, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
-
-- Ph.D. Taeyoung Ha, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
-
-- Ph.D. Sunju Lee, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
-
-- Ph.D. Mi Ra Lee, Division of Industrial Mathematics, National Institute for Mathematical Sciences.
-
-- Ph.D. Sang-Kwang Lee, Electronics and Telecommunications Research Institute.
-
-- Ph.D. DongHoon Choi, Korea Institute of Science and Technology Information.
-
-## Industry
-
-- Samgu Chun, Research Lab, Double Chain.
-
-- Wonseok Choi, Research Lab, Double Chain. 
 
 <br>
 
