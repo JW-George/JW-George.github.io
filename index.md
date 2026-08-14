@@ -293,13 +293,15 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
     
       - *Aug.2026*, Multimodal Learning for Multi-Disease Classification via Data-Driven and Domain Knowledge-Guided Representations, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
 
-        - *Certificate of Excellence*, Best Poster Award.
+        - *Certificate of Excellence*, **Best Poster Award**.
 
 - *2025 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
 
     - (Contributed talks / Posters)
 
       - *Aug.2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
+
+      - *July.2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs, *Science Computing and Differential Equations 2026* (Edinburgh, UK).
 
 - *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
 
