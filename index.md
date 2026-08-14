@@ -289,9 +289,23 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *2025 Winter - 2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
 
+    - (Contributed talks / Posters)
+    
+      - *Aug.2026*, Multimodal Learning for Multi-Disease Classification via Data-Driven and Domain Knowledge-Guided Representations, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
+
+        - *Certificate of Excellence*, Best Poster Award.
+
 - *2025 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
 
+    - (Contributed talks / Posters)
+
+      - *Aug.2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
+
 - *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+
+    - (Contributed talks / Posters)
+    
+      - *Aug.2026*, SLEEPSm: Domain Knowledge-Informed Multimodal Sleep Apnea Classification Using a Wearable Device, *A3 Foresight Workshop: Beyond Data - Synergy between Mathematics and AI* (Daejeon, Korea).
 
 - *2025 Summer - 2026 Summer*, Iseo Kim, *Graduate Student at Department of AI Convergence, Hankuk University of Foreign Studies*.
 
