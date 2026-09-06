@@ -16,10 +16,10 @@ author_profile: true
 
 # About Me
 
-Postdoctoral Research Fellow working on Deep Learning-Based Data Science and AI for Science & Social Science.
+Postdoctoral Research Fellow working on Deep Learning for Science & AI for Math.
 
 
-I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include data analysis, deep learning, artificial intelligence, natural language processing, computer vision, and homomorphic encryption.
+I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (Biomedical Mathematics Group), led by Prof. Jae Kyoung Kim. I received the B.S. (Bachelor of Science) and B.L.S. (Bachelor of Language Science) degrees in Computer Science and Language Technology from HUFS (Hankuk University of Foreign Studies), South Korea, in 2021, and the Ph.D. degree in Mathematics from the Graduate School, HUFS, in 2025. I was a Research Intern at NIMS (National Institute for Mathematical Sciences), South Korea. My research interests include Deep Learning for Science, Artificial Intelligence for Math, Natural Language Processing, Computer Vision, and Homomorphic Encryption.
 
 <br>
 
@@ -40,6 +40,8 @@ I am a Postdoctoral Research Fellow at IBS (Institute for Basic Science) BIMAG (
 
 
 # Research Experience
+
+- *Mar. 2027\* - Aug. 2027\**, Postdoctoral Research Fellow. Mathematical Sciences, KAIST (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
 
 - *May. 2025 - Feb. 2027\**, Postdoctoral Research Fellow. BIMAG, [IBS](https://www.ibs.re.kr) (Advisor: Prof. [Jae Kyoung Kim](http://mathsci.kaist.ac.kr/~jaekkim/)).
 
@@ -165,7 +167,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 - *2026*, Robust LaTeX-Aware Representation Learning for Semantic Retrieval of Formula-Dense STEM Manuscripts<sup>&dagger;</sup> (Under Review)
 
-- *2026\**, Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks<sup>&Dagger;</sup> (In preparation)
+- *2026\**, Non-Local Sparse Attention based Deep Laplacian Pyramid Networks for Super-Resolution<sup>&Dagger;</sup> (In preparation)
 
 - *2026\**, Peer Reviewer Recommendation System for Biological Literature Representation<sup>&dagger;</sup> (In preparation)
 
@@ -285,9 +287,9 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
 ## Mentoring
 
-- *2024 Summer - 2026 Summer*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
+- *2024 Summer - 2026 Winter*, Cheyoung Lee, *Graduate Student at Department of Mathematical Sciences, Seoul National University*.
 
-- *2025 Winter - 2026 Summer*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
+- *2025 Winter - 2026 Winter*, Jungmin Kim, *Undergraduate student at the Department of Mathematics, University of Seoul*.
 
     - (Contributed talks / Posters)
     
@@ -295,7 +297,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
         - *Certificate of Excellence*, **Best Poster Award**.
 
-- *2025 Winter - 2026 Summer*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
+- *2025 Winter - 2026 Winter*, Gyeongwan Gu, *Graduate student at the Department of Mathematics, Ajou University*.
 
     - (Contributed talks / Posters)
 
@@ -303,7 +305,7 @@ Workshop on Machine Learning and Compression, NeurIPS 2024 (Poster)
 
       - *July.2026*, Deep Predictor-Corrector Networks for Robust Parameter Estimation in Non-autonomous System with Discontinuous Inputs, *Science Computing and Differential Equations 2026* (Edinburgh, UK).
 
-- *2026 Summer*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
+- *2026 Summer - 2026 Winter*, Suyeon Kim, *Undergraduate Student at Data Science, Inha University*.
 
     - (Contributed talks / Posters)
     
